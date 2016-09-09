@@ -1,6 +1,6 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: Caue Queiroz
+description: Front-end developer
+meta_description: "Caue Queiroz - Front-end developer"
 
 aboutPage: true
 
@@ -10,14 +10,14 @@ highlighter: rouge
 gems: [jekyll-paginate]
 paginate: 20
 baseurl: /
-domain_name: 'http://yourblog-domain.com'
-google_analytics: 'UA-XXXXXXXX-X'
-disqus: false
-disqus_shortname: 'your-disqus-shortname'
+domain_name: 'http://cauequeiroz.com.br'
+google_analytics: 'UA-83890857-1'
+disqus: true
+disqus_shortname: 'cauequeiroz'
 
 # Details for the RSS feed generator
-url:            'http://your-blog-url.example.com'
-author:         'Your Name'
+url:            'http://cauequeiroz.com.br'
+author:         'Caue Queiroz'
 authorTwitter:  'YourTwitterUsername'
 
 permalink:       /:year/:title/
