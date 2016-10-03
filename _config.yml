@@ -2,7 +2,7 @@
 title: Caue Queiroz - Um blog sobre desenvolvimento front-end.
 description: Um blog sobre desenvolvimento front-end.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://cauequeiroz.com.br" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "http://cauequeiroz.com.br" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Caue Queiroz
