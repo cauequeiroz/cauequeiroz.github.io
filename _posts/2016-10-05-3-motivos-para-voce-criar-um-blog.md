@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3 motivos para você criar um blog ainda hoje"
+title: "3 motivos para você criar o seu blog pessoal ainda hoje"
 date: 2016-10-05 21:20:00
 image: '/assets/img/'
 description: 'Um pouquinho sobre os motivos que me fizeram iniciar um blog.'
