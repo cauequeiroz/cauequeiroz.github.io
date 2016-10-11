@@ -1,12 +1,12 @@
 # Site settings
-title: Caue Queiroz - front-end developer.
+title: Caue Queiroz - Front-end Developer
 description: Um blog sobre desenvolvimento front-end.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://cauequeiroz.com.br" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Caue Queiroz
-user_description: front-end developer.
+user_description: Front-end Developer
 user_title: i am the one who knocks.
 email: cauenqueiroz@gmail.com
 twitter_username: lorem_ipsum
