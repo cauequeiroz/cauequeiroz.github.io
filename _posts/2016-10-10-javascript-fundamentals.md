@@ -29,7 +29,8 @@ Não existe conhecimento inútil ou perda de tempo quando se trata de estudar os
 
 Eu realmente acredito que com Javascript a história é bem diferente. O que pensa sobre tudo isso? Vamos começar a brincadeira então?
 
-
+### Objeto Array
+[Javascript Fundamentals - Objeto Array #1](http://cauequeiroz.com.br/javascript-fundamentals-objeto-array-1/)
 
 
 
