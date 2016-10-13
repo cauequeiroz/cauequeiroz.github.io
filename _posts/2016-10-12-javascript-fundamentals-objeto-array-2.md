@@ -19,10 +19,7 @@ Lembrando que essa série tem como objetivo produzir uma explicação simples, d
 
 Sem mais delongas, vamos para o código. Hoje vamos conversar um pouco sobre as seguintes funções:
 
-```reverse()```, ```sort()```, ```splice()```, ```copyWithin()``` e ```fill()```.
-
-{% highlight js %}
-{% endhighlight %}
+```reverse()```, ```sort()``` e ```splice()```.
 
 ### reverse()
 
@@ -66,7 +63,7 @@ console.log(numeros);
 
 Isso acontece porque todos os itens são convertidos para string. Então o javascript verifica posição por posição até encontrar alguma diferença e definir qual é a relação entre os itens. No caso, "45" é menor que "7" porque "4" (primeira posição) vem antes de "7".
 
-Para resolver esse problema podemos passar como parâmetro uma função que explique como queremos essa ordenação.
+Para resolver esse problema podemos passar como parâmetro uma função que explique como queremos essa ordenação:
 
 {% highlight js %}
 var numeros = [4, 3, 7, 1, 45];
@@ -85,3 +82,54 @@ Perfeito, não? Essa função simplesmente pega os dois itens que o javascript e
 - Se o retorno dessa conta for **zero**, então são dois números _iguais_.
 - Se o retorno dessa conta for **positivo**, então ```a``` é _maior_ que ```b```.
 - Se o retorno dessa conta for **negativo**, então ```a``` é _menor_ que ```b```.
+
+### splice()
+
+Usado para **remover** itens de um array.
+
+{% highlight js %}
+var nomes = ['Caue Queiroz', 'Luke Skywalker', 'Han Solo', 'Princesa Leia'];
+
+// Me deixando sozinho com a Princesa Leia ( ͡° ͜ʖ ͡°)
+nomes.splice(1, 2);
+
+console.log(nomes);
+> ["Caue Queiroz", "Princesa Leia"]
+{% endhighlight %}
+
+O primeiro parâmetro é onde você quer **iniciar o corte**. No caso, minha intenção era começar removendo o ```Luke Skywalker```. Ele estava na posição ```1``` (começa no 0 a contagem, lembra?), então simplesmente usei esse valor no primeiro parâmetro.
+
+O segundo parâmetro é **quantos itens** você quer remover. A ideia era remover o ```Luke Skywalker``` e o ```Han Solo```, ou seja, ```2``` itens. Bem simples, não?
+
+Duas informações importantes sobre esse segundo parâmetro:
+
+- Caso ele seja **0**: nenhum item será removido.
+- Caso você **não use** ele: todos os itens serão removidos (a partir da posição do primeiro parâmetro, claro).
+
+{% highlight js %}
+var nomes = ['Caue Queiroz', 'Luke Skywalker', 'Han Solo', 'Princesa Leia'];
+
+// Me deixando...sozinho :(
+nomes.splice(1);
+
+console.log(nomes);
+> ["Caue Queiroz"]
+{% endhighlight %}
+
+Por fim, você ainda consegue com esse método adicionar alguns itens a partir da posição do primeiro parâmetro. Para isso, basta listar o que você quer adicionar **após o segundo parâmetro**:
+
+{% highlight js %}
+var nomes = ['Caue Queiroz', 'Luke Skywalker', 'Han Solo', 'Princesa Leia'];
+
+// Removendo o Luke e o Han Solo, mas adicionando outras pessoas no lugar
+nomes.splice(1, 2, 'Mestre Yoda', 'Darth Vader', 'Chewbacca');
+
+console.log(nomes);
+> ["Caue Queiroz", "Mestre Yoda", "Darth Vader", "Chewbacca", "Princesa Leia"]
+{% endhighlight %}
+
+Nesse caso, além de remover os itens como no primeiro exemplo, ele adicionou os itens listados depois do segundo parâmetro!
+
+---
+
+Assim finalizamos os métodos responsáveis por _modificar_ um array. Fique a vontade para comentar o que está achando da série, ou se tem alguma dica bacana de uso dos métodos já estudados! Nos vemos amanhã. :)
