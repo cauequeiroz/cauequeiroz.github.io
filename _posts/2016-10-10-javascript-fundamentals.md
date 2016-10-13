@@ -11,6 +11,8 @@ categories:
 twitter_text: 'Uma jornada pela linguagem Javascript.'
 ---
 
+> _Já conhece essa série e está interessado nos outros posts? Links no fim desse artigo :)_
+
 Um dos maiores problemas de quem está começando é decidir o que estudar em meio ao mar de frameworks, bibliotecas, ferramentas e metodologias que é o universo de front-end. Para a felicidade de todos, existe uma skill que é fundamental e que nunca sairá da checklist do que você realmente precisa aprender. Se você está perdido ainda ou simplesmente quer se tornar um desenvolvedor melhor, não tem segredo: **estude a linguagem Javascript**.
 
 Hoje vou começar a escrever uma série de posts com esse intuito. Vamos aos poucos, semana após semana, pegar um objeto da linguagem e conversar sobre ele até que todas as suas propriedades e métodos sejam estudados. Isso vai me ajudar demais a polir o meu conhecimento técnico da própria linguagem, espero de coração que essa jornada também ajude vocês de alguma forma. :)

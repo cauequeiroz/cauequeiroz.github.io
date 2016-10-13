@@ -120,3 +120,5 @@ console.log(foo);
 ---
 
 Ficamos por aqui novamente. O que acha de cada post ter de três a cinco funções no máximo? Deixe sua opinião aqui embaixo nos comentários e nos vemos amanhã! :)
+
+> _Esse post faz parte de uma série. Quer ver as outras postagens? [Clique aqui](http://cauequeiroz.com.br/javascript-fundamentals/)._

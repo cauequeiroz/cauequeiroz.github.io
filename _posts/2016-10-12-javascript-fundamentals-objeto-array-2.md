@@ -133,3 +133,5 @@ Nesse caso, além de remover os itens como no primeiro exemplo, ele adicionou os
 ---
 
 Assim finalizamos os métodos responsáveis por _modificar_ um array. Fique a vontade para comentar o que está achando da série, ou se tem alguma dica bacana de uso dos métodos já estudados! Nos vemos amanhã. :)
+
+> _Esse post faz parte de uma série. Quer ver as outras postagens? [Clique aqui](http://cauequeiroz.com.br/javascript-fundamentals/)._
