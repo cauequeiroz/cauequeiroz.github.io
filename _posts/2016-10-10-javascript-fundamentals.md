@@ -31,7 +31,8 @@ Eu realmente acredito que com Javascript a história é bem diferente. O que pen
 
 ### Objeto Array
 [Javascript Fundamentals - Objeto Array #1](http://cauequeiroz.com.br/javascript-fundamentals-objeto-array-1/)  
-[Javascript Fundamentals - Objeto Array #2](http://cauequeiroz.com.br/javascript-fundamentals-objeto-array-2/)
+[Javascript Fundamentals - Objeto Array #2](http://cauequeiroz.com.br/javascript-fundamentals-objeto-array-2/)  
+[Javascript Fundamentals - Objeto Array #3](http://cauequeiroz.com.br/javascript-fundamentals-objeto-array-3/)
 
 
 
