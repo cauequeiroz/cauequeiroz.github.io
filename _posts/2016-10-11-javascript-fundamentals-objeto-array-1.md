@@ -138,6 +138,6 @@ Como tivemos uma pequena introdução hoje, vou finalizar por aqui com esses qua
 
 No próximo post continuamos, e talvez até terminamos, os métodos que modificam um array. Até lá! :)
 
-> _Esse post faz parte de uma série. Quer ver as outras postagens? [Clique aqui](http://cauequeiroz.com.br/javascript-fundamentals/)._
+> _Esse post faz parte de uma série. Quer ver as outras postagens? [Clique aqui]({% post_url 2016-10-10-javascript-fundamentals %})._
 
 

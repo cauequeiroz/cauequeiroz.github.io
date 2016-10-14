@@ -32,10 +32,10 @@ Não existe conhecimento inútil ou perda de tempo quando se trata de estudar os
 Eu realmente acredito que com Javascript a história é bem diferente. O que pensa sobre tudo isso? Vamos começar a brincadeira então?
 
 ### Objeto Array
-[Javascript Fundamentals - Objeto Array #1](http://cauequeiroz.com.br/javascript-fundamentals-objeto-array-1/)  
-[Javascript Fundamentals - Objeto Array #2](http://cauequeiroz.com.br/javascript-fundamentals-objeto-array-2/)  
-[Javascript Fundamentals - Objeto Array #3](http://cauequeiroz.com.br/javascript-fundamentals-objeto-array-3/)
-
+[Javascript Fundamentals - Objeto Array #1]({% post_url 2016-10-11-javascript-fundamentals-objeto-array-1 %})  
+[Javascript Fundamentals - Objeto Array #2]({% post_url 2016-10-12-javascript-fundamentals-objeto-array-2 %})  
+[Javascript Fundamentals - Objeto Array #3]({% post_url 2016-10-13-javascript-fundamentals-objeto-array-3 %})
+[Javascript Fundamentals - Objeto Array #4]({% post_url 2016-10-14-javascript-fundamentals-objeto-array-4 %})
 
 
 
