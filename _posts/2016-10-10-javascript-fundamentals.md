@@ -34,8 +34,8 @@ Eu realmente acredito que com Javascript a história é bem diferente. O que pen
 ### Objeto Array
 [Javascript Fundamentals - Objeto Array #1]({% post_url 2016-10-11-javascript-fundamentals-objeto-array-1 %})  
 [Javascript Fundamentals - Objeto Array #2]({% post_url 2016-10-12-javascript-fundamentals-objeto-array-2 %})  
-[Javascript Fundamentals - Objeto Array #3]({% post_url 2016-10-13-javascript-fundamentals-objeto-array-3 %})
-[Javascript Fundamentals - Objeto Array #4]({% post_url 2016-10-14-javascript-fundamentals-objeto-array-4 %})
+[Javascript Fundamentals - Objeto Array #3]({% post_url 2016-10-13-javascript-fundamentals-objeto-array-3 %})  
+[Javascript Fundamentals - Objeto Array #4]({% post_url 2016-10-14-javascript-fundamentals-objeto-array-4 %})  
 
 
 
