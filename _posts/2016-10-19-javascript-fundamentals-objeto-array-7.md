@@ -127,6 +127,6 @@ Esse método é diferente de todos que vimos até agora. Ele é usado diretament
 
 ---
 
-Chegamos ao fim da nossa jornada com o Objeto Array. Com excessão de alguns métodos novos do ES6, conversamos sobre todos os métodos e propriedades desse objeto. O que acharam desse formato? O feedback de vocês é muito importante...sugestões e críticas serão levadas em consideração para os próximos estudos dessa série. Deixe nos comentários o que você achou e até a próxima!
+Chegamos ao fim da nossa jornada com o Objeto Array. Com exceção de alguns métodos novos do ES6, conversamos sobre todos os métodos e propriedades desse objeto. O que acharam desse formato? O feedback de vocês é muito importante...sugestões e críticas serão levadas em consideração para os próximos estudos dessa série. Deixe nos comentários o que você achou e até a próxima!
 
 > _Esse post faz parte de uma série. Quer ver as outras postagens? [Clique aqui]({% post_url 2016-10-10-javascript-fundamentals %})._
