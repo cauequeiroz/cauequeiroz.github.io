@@ -40,6 +40,8 @@ Eu realmente acredito que com Javascript a história é bem diferente. O que pen
 [Javascript Fundamentals - Objeto Array #6]({% post_url 2016-10-18-javascript-fundamentals-objeto-array-6 %})  
 [Javascript Fundamentals - Objeto Array #7]({% post_url 2016-10-19-javascript-fundamentals-objeto-array-7 %})  
 
+### Objeto JSON
+[Javascript Fundamentals - Objeto JSON]({% post_url 2016-10-20-javascript-fundamentals-objeto-json %}) 
 
 
 
