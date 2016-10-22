@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<main id="scroll" class="home" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
+<!-- <main id="scroll" class="home" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
     {% for post in site.posts %}
         <article role="article" class="post-item" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
                 <a class="datetime" href="{{ post.url | prepend: site.baseurl }}">
@@ -31,4 +31,13 @@ layout: default
                 </div>
         </article>
     {% endfor %}
-</main>
+</main> -->
+<article role="article" id="scroll" class="post-content" itemprop="mainContentOfPage">
+      <ul class="post-list">
+        {% for post in site.posts %}
+          <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}<span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></a></li>
+        {% endfor %}
+      </ul>
+</article>
+
+
