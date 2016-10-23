@@ -3,7 +3,7 @@ layout: post
 title: "Gerando um número aleatório entre x e y"
 date: 2016-10-23 13:00:00
 image: '/assets/img/'
-description: ''
+description: '...e realmente entendendo o que está acontecendo.'
 tags:
 - javascript
 categories:
