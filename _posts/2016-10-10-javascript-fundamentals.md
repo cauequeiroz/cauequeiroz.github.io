@@ -43,6 +43,8 @@ Eu realmente acredito que com Javascript a história é bem diferente. O que pen
 ### Objeto JSON
 [Javascript Fundamentals - Objeto JSON]({% post_url 2016-10-20-javascript-fundamentals-objeto-json %}) 
 
+### Objeto Number
+[Javascript Fundamentals - Objeto Number #1]({% post_url 2016-10-25-javascript-fundamentals-objeto-number-1 %})  
 
 
 
