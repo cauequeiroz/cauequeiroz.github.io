@@ -51,6 +51,7 @@ Eu realmente acredito que com Javascript a história é bem diferente. O que pen
 [Javascript Fundamentals - Objeto String #1]({% post_url 2016-11-02-javascript-fundamentals-objeto-string-1 %})  
 [Javascript Fundamentals - Objeto String #2]({% post_url 2016-11-03-javascript-fundamentals-objeto-string-2 %})  
 [Javascript Fundamentals - Objeto String #3]({% post_url 2016-11-04-javascript-fundamentals-objeto-string-3 %})  
+[Javascript Fundamentals - Objeto String #4]({% post_url 2016-11-05-javascript-fundamentals-objeto-string-4 %})  
 
 
 
