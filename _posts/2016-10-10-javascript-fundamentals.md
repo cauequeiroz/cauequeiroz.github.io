@@ -55,7 +55,7 @@ Eu realmente acredito que com Javascript a história é bem diferente. O que pen
 
 ### Objeto Math
 [Javascript Fundamentals - Objeto Math #1]({% post_url 2016-11-07-javascript-fundamentals-objeto-math-1 %})  
-
+[Javascript Fundamentals - Objeto Math #2]({% post_url 2016-11-08-javascript-fundamentals-objeto-math-2 %})  
 
 
 

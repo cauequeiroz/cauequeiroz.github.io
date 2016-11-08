@@ -11,7 +11,7 @@ categories:
 twitter_text: 'Uma jornada pelo objeto math, seus métodos e propriedades.'
 ---
 
-O objeto Math, como o próprio nome sugere, é responsável por oferecer métodos e propriedades do universo matemático. Algumas coisas são bem especifícas para quem esta fazendo cálculos complexos ou trabalhando com conceitos matemáticos avançados, não muito comuns no dia a dia. Por isso optei por não abordar tudo que a linguagem oferece e focar nos métodos que são mais utilizados.
+O objeto Math, como o próprio nome sugere, é responsável por oferecer métodos e propriedades do universo matemático. Algumas coisas são bem específicas para quem está fazendo cálculos complexos ou trabalhando com conceitos matemáticos avançados, não muito comuns no dia a dia. Por isso optei por não abordar tudo que a linguagem oferece e focar nos métodos que são mais utilizados.
 
 `ceil()`, `floor()` e `round()`.
 
