@@ -5,9 +5,9 @@ date: 2016-11-10 10:00:00
 image: '/assets/img/'
 description: 'Todos os cursos relacionados a front-end, separados por nível.'
 tags:
-- javascript
+- Cursos
 categories:
-- Javascript
+- Cursos
 twitter_text: 'Todos os cursos relacionados a front-end, separados por nível.'
 ---
 
