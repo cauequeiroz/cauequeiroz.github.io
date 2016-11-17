@@ -84,3 +84,53 @@ function even_or_odd(number) {
 {% endhighlight %}
 
 ### Problema 2
+
+Crie uma função que some os dois menores números. Essa função receberá um array com pelo menos 4 números inteiros e positivos e deverá retornar a soma dos dois menores números.
+
+Novamente, vamos criar a função que receberá esses números:
+
+{% highlight js %}
+function sumTwoSmallestNumbers(numbers) {  
+  
+};
+{% endhighlight %}
+
+É bem interessante pensarmos de uma forma um pouco mais abstrata antes de colocarmos a mão na massa. Para solucionar esse problema, precisamos apenas de dois passos:
+
+**1.** Ordenar esse array de números **do menor para o maior**.  
+**2.** Com ele ordenado, conseguimos a soma dos dois menores números simplesmente somando o número da **posição 0** com o número da **posição 1**. Afinal, esses são os dois menores números.
+
+Perfeito, agora como traduzir isso para Javascript? Para ordenar o array podemos usar o método `sort()`. Caso nunca tenha ouvido falar, eu escrevi sobre ele em um dos artigos da série Javascript Fundamentals:
+
+[Javascript Fundamentals - Objeto Array #2 (sort)]({% post_url 2016-10-12-javascript-fundamentals-objeto-array-2 %}#sort)
+
+Aliás, nesse mesmo post temos um exemplo de uso do método `sort()` para ordenar números. Caso não entenda o que eu vou fazer a seguir, só conferir a explicação no post. :)
+
+{% highlight js %}
+function sumTwoSmallestNumbers(numbers) {
+
+    // Ordenando os números do MENOR para o MAIOR
+    var arr = numbers.sort(function(a, b){
+        return a - b;
+    });
+
+}
+{% endhighlight %}
+
+Para finalizar, basta retornarmos a soma das duas primeiras posições desse array.
+
+{% highlight js %}
+function sumTwoSmallestNumbers(numbers) {
+
+    // Ordenando os números do MENOR para o MAIOR
+    var arr = numbers.sort(function(a, b){
+        return a - b;
+    });
+
+    // Retornando a soma dos dois menores números
+    return arr[0] + arr[1];
+
+}
+{% endhighlight %}
+
+### Problema 3
