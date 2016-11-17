@@ -134,3 +134,57 @@ function sumTwoSmallestNumbers(numbers) {
 {% endhighlight %}
 
 ### Problema 3
+
+Crie uma função que filtre números. Essa função receberá um array com números, inteiros e positivos, e strings. O retorno dessa função deverá ser um array apenas com os números.
+
+Vamos a função que receberá esse array:
+
+{% highlight js %}
+function filter_list(list) {
+  
+}
+{% endhighlight %}
+
+Precisamos passar por cada item do array, verificar se ele é um número ou não e fazer a filtragem. Como podemos fazer isso? Utilizando o método `filter()`, claro! Caso nunca tenha usado, também escrevi sobre ele em um post da série Javascript Fundamentals.
+
+[Javascript Fundamentals - Objeto Array #5 (filter)]({% post_url 2016-10-17-javascript-fundamentals-objeto-array-5 %}#filter)
+
+Esse método retorna um novo array, vamos deixar nesse array apenas os elementos que forem do tipo `number`. Essa é uma verificaçao bem simples de se fazer utilizando o operador `typeof`.
+
+{% highlight js %}
+function filter_list(list) {
+
+    // Gerando um array apenas com elementos do tipo 'number'
+    var numbers = list.filter(function(elem) {
+        return typeof elem === 'number';
+    });
+
+}
+{% endhighlight %}
+
+Por fim, basta retornarmos esse novo array.
+
+{% highlight js %}
+function filter_list(list) {
+
+    // Gerando um array apenas com elementos do tipo 'number'
+    var numbers = list.filter(function(elem) {
+        return typeof elem === 'number';
+    });
+
+    return numbers;
+
+}
+{% endhighlight %}
+
+Caso queira escrever utilizando algumas features do _es6_ como `const` e `arrow functions`, a solução será a seguinte:
+
+{% highlight js %}
+const filter_list = list => list.filter(elem => typeof elem === 'number');
+{% endhighlight %}
+
+---
+
+Como dito no início, é bastante experimental esse formato de post. Seu feedback é muito importante para os próximos que vou escrever! Mais desafios? Menos? Que tal apenas um desafio com uma dificuldade maior? Deixe nos comentários o que achou e quais suas sugestões para os próximos.
+
+Ah, não se esqueça de criar sua conta no [CodeWars](http://www.codewars.com/r/h2nQcA) e resolver esses e muitos outros desafios de programação. :)
