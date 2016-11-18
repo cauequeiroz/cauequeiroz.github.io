@@ -5,9 +5,9 @@ date: 2016-11-17 10:00:00
 image: '/assets/img/'
 description: 'Solução comentada de problemas reais, usando Javascript.'
 tags:
-- Cursos
+- Logica
 categories:
-- Cursos
+- Logica
 twitter_text: 'Solução comentada de problemas reais, usando Javascript.'
 ---
 
