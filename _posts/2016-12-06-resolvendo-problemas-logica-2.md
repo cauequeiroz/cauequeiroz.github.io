@@ -35,7 +35,7 @@ O primeiro passo é entender completamente o problema que você precisará resol
 **1)** Seguindo essa sugestão, a caminhada dura exatamente **10 minutos**.  
 **2)** Se essas direções propostas vão nos levar de volta para o ponto de partida.
 
-Se essas duas condições forem verdadeiras, temos uma caminhada valida e podemos retornar _true_. Caso contrário, nossa função retornará _false_.
+Se essas duas condições forem verdadeiras, temos uma caminhada válida e podemos retornar _true_. Caso contrário, nossa função retornará _false_.
 
 {% highlight js %}
 function isValidWalk(walk) {
@@ -82,13 +82,13 @@ var walk = ['n', 's', 'n', 'n', 'e', 'w'];
 
 // 1 - Vamos filtrar esse array e deixar
 // apenas os itens 'n'
-var qtde = walk.filter(function(item) {
+var n = walk.filter(function(item) {
     return item === 'n';
 });
 
 // 2 - O length desse novo array nos dirá
 // quantos 'n' temos!
-console.log( qtde.length );
+console.log( n.length );
 > 3
 {% endhighlight %}
 
@@ -135,6 +135,39 @@ function isValidWalk(walk) {
 }
 {% endhighlight %}
 
+Estamos chegando no final desse problema. Vamos comparar as direções opostas agora:
+
+{% highlight js %}
+function isValidWalk(walk) {
+    var dir = {
+        'n': walk.filter((item) => item==='n').length,
+        's': walk.filter((item) => item==='s').length,
+        'w': walk.filter((item) => item==='w').length,
+        'e': walk.filter((item) => item==='e').length
+    };
+
+    if ( dir['n'] === dir['s'] && dir['w'] === dir['e'] && walk.length === 10 ) {
+        return true;
+    } else {
+        return false;
+    }
+}
+{% endhighlight %}
+
+Novamente, vamos deixar nossa condicional um pouco mais enxuta e finalizar a solução desse problema! :)
+
+{% highlight js %}
+function isValidWalk(walk) {  
+  var dir = {
+    'n': walk.filter((item) => item==='n').length,
+    's': walk.filter((item) => item==='s').length,
+    'w': walk.filter((item) => item==='w').length,
+    'e': walk.filter((item) => item==='e').length
+  }
+
+  return dir['n'] === dir['s'] && dir['w'] === dir['e'] && walk.length === 10;
+}
+{% endhighlight %}
 
 ---
 
