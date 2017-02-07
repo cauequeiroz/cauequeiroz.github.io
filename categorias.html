@@ -6,6 +6,12 @@ image: '/assets/img/series.png'
 description: "Veja todos os posts separados por categorias."
 ---
 
+<div class="tags">
+  {% for tag in site.categories %}
+  <a href="#{{ tag[0] | slugify }}" data-scroll>{{ tag[0] }}</a>
+  {% endfor %}
+</div>
+
 {% for tag in site.categories %}
   <span class="tag-title" id="{{ tag[0] | slugify }}">{{ tag[0] | capitalize }}</span>
   <ul class="post-list">
