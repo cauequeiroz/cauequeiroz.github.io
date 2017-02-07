@@ -18,7 +18,7 @@ a.slideButton, .dosearch
     top 10px
     z-index 31
 .slideButton
-    left 10px
+    right 10px
 .dosearch
     right 10px
     background darken(main,10%)
@@ -48,10 +48,10 @@ aside
     width rem(240px)
     padding rem(40px) 0 0
     top 0
-    left rem(-240px)
+    right rem(-240px)
     background #3F3F3F
     z-index 20
-    box-shadow inset -10px -1px 15px -9px rgba(0,0,0,0.5)
+    box-shadow inset 10px -1px 15px -9px rgba(0,0,0,0.5)
     h2
         text-align center
         margin 0 0 rem(10px)
@@ -78,11 +78,11 @@ aside
         .feed
             border-bottom 1px solid darken(lightGray,50%)
     &.slide
-        left 0
+        right 0
 
 
 a.slideButton.slide
-    left rem(250px)
+    right rem(250px)
     pointer-events none
 
 .overlay
@@ -90,11 +90,11 @@ a.slideButton.slide
     width 100%
     height 100%
     top 0
-    left 0
+    right 0
     pointer-events none
     background transparent
     z-index 30
     &.slide
         pointer-events auto
-        left 240px
+        right 240px
         background rgba(0,0,0,.6)
