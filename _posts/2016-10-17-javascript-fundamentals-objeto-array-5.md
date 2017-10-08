@@ -9,6 +9,7 @@ tags:
 categories:
 - Javascript
 twitter_text: 'Uma jornada pelo objeto array, seus métodos e propriedades.'
+archive: true
 ---
 
 Hoje vamos começar a falar sobre os _métodos de iteração_. Cada um deles será responsável por percorrer todos os itens do array, como em um _loop_. O que acontecerá? Cada método tem sua particularidade, nós veremos cada uma delas!

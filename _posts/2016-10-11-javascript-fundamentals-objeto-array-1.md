@@ -9,6 +9,7 @@ tags:
 categories:
 - Javascript
 twitter_text: 'Uma jornada pelo objeto array, seus métodos e propriedades.'
+archive: true
 ---
 
 Vamos começar nossa jornada de estudos com o **objeto array**. Apesar de não ser muito a intenção dessa série, antes de partir para as primeiras funções vou explicar brevemente o que é um array, como criar um e acessar seus itens. Não será nada muito aprofundado, mas será o suficiente para quem ainda não tem muita familiaridade com isso conseguir acompanhar os próximos posts. :)

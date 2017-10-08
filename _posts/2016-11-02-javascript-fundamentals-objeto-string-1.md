@@ -9,6 +9,7 @@ tags:
 categories:
 - Javascript
 twitter_text: 'Uma jornada pelo objeto string, seus métodos e propriedades.'
+archive: true
 ---
 
 Hoje começamos a conversar sobre um dos objetos mais importantes do javascript: o **Objeto String**. Em diversos cenários você precisará trabalhar com strings em seu código. Sem dúvidas nenhuma, conhecer os métodos oferecidos pela linguagem vai aumentar e muito as suas possibilidades de uso! :)

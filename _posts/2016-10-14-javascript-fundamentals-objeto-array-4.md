@@ -9,6 +9,7 @@ tags:
 categories:
 - Javascript
 twitter_text: 'Uma jornada pelo objeto array, seus métodos e propriedades.'
+archive: true
 ---
 
 Hoje vamos finalizar os _métodos de acesso_. Lembrando que esses métodos não modificam o array, e sim retornam **um novo array** com as alterações propostas pela função. Por isso, não se esqueça de salvar esse retorno em uma variável, ok?

@@ -9,6 +9,7 @@ tags:
 categories:
 - Javascript
 twitter_text: 'Uma jornada pelo objeto string, seus métodos e propriedades.'
+archive: true
 ---
 
 Chegamos no fim de mais um objeto da série Javascript Fundamentals! Finalizamos o objeto String com a conversa de hoje. Vamos aos últimos métodos então. :)

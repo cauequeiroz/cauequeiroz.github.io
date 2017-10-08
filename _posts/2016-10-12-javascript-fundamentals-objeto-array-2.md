@@ -9,6 +9,7 @@ tags:
 categories:
 - Javascript
 twitter_text: 'Uma jornada pelo objeto array, seus métodos e propriedades.'
+archive: true
 ---
 
 Quero começar esse post agradecendo pelo feedback de vocês. Divulguei ontem esse blog (e essa série) em alguns grupos do facebook e a recepção da comunidade foi simplesmente incrível! Recebi alguns comentários bem bacanas, sugestões e dicas para essa minha nova jornada. **Vocês são fodas!** Estou bastante empolgado e motivado com tudo isso. :)

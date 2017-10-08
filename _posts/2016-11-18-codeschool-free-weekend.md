@@ -9,6 +9,7 @@ tags:
 categories:
 - Cursos
 twitter_text: 'Todos os cursos gratuitos por 59 horas.'
+archive: true
 ---
 
 Esse final de semana começa com uma notícia mais do que especial: para comemorar a marca de 3 milhões de estudantes, a CodeSchool liberou **todos os cursos** gratuitamente pelos próximos 3 dias.

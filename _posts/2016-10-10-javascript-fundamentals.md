@@ -9,6 +9,7 @@ tags:
 categories:
 - Javascript
 twitter_text: 'Uma jornada pela linguagem Javascript.'
+archive: true
 ---
 
 > _Já conhece essa série e está interessado nos outros posts? Links no fim desse artigo :)_

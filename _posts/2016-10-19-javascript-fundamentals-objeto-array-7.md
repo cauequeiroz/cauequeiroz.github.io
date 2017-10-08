@@ -9,6 +9,7 @@ tags:
 categories:
 - Javascript
 twitter_text: 'Uma jornada pelo objeto array, seus métodos e propriedades.'
+archive: true
 ---
 
 Hoje chegamos ao fim do primeiro objeto estudado nessa série! Além de vermos os dois últimos métodos de iteração, teremos também uma propriedade e um método que apesar de ser bem simples, deve ser chamado de uma forma um pouco diferente das que usamos até aqui. Vamos lá?

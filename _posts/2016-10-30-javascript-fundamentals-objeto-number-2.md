@@ -9,6 +9,7 @@ tags:
 categories:
 - Javascript
 twitter_text: 'Uma jornada pelo objeto number, seus métodos e propriedades.'
+archive: true
 ---
 
 Hoje vamos finalizar mais um objeto dessa série! Os métodos que veremos retornam um novo valor com a alteração necessária sem modificar o original. Por isso, lembre-se sempre de salvar em uma nova variável. :)

@@ -9,6 +9,7 @@ tags:
 categories:
 - Javascript
 twitter_text: 'Uma jornada pelo objeto array, seus métodos e propriedades.'
+archive: true
 ---
 
 Os métodos que veremos hoje tem uma coisa em comum: eles verificam os itens de um array e retornam algo caso esse item (ou todos) passe por determinado teste. Apesar de serem bastante semelhantes, cada um é responsável por um tipo específico de verificação ou de retorno. 

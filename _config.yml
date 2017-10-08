@@ -7,8 +7,6 @@ aboutPage: true
 markdown: kramdown
 highlighter: rouge
 
-plugins: [jekyll-paginate]
-paginate: 20
 domain_name: 'http://cauequeiroz.com.br'
 google_analytics: 'UA-83890857-1'
 disqus: false

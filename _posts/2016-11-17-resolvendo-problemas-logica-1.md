@@ -9,6 +9,7 @@ tags:
 categories:
 - Logica
 twitter_text: 'Solução comentada de problemas reais, usando Javascript.'
+archive: true
 ---
 
 Ladies and gentlemen, hoje damos início a uma das séries que me motivaram a escrever esse blog! O formato é completamente experimental, não sei qual será a frequência das postagens, quantidade de problemas, dificuldade dos problemas e afins. A ideia é simplesmente começar e, aos poucos (e de acordo com o feedback de vocês <3), ir dando forma a isso.

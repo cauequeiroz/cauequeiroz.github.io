@@ -9,6 +9,7 @@ tags:
 categories:
 - Logica
 twitter_text: 'Solução comentada de problemas reais, usando Javascript.'
+archive: true
 ---
 
 ## Introdução

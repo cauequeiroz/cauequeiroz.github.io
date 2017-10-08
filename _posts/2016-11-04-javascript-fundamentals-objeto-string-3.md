@@ -9,6 +9,7 @@ tags:
 categories:
 - Javascript
 twitter_text: 'Uma jornada pelo objeto string, seus métodos e propriedades.'
+archive: true
 ---
 
 É muito bom escrever um post por dia, mas confesso que estou ficando sem ter o que falar na introdução de cada post! haha Vamos lá, mais alguns métodos do Objeto String. :)

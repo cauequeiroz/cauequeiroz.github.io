@@ -9,6 +9,7 @@ tags:
 categories:
 - Javascript
 twitter_text: 'Uma jornada pelo objeto number, seus métodos e propriedades.'
+archive: true
 ---
 
 O próximo objeto que vamos estudar será o **Number**. Ele é bastante simples, tem poucas propriedades e métodos. Acredito que em dois posts conseguimos conversar bem sobre ele. :)

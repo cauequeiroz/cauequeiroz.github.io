@@ -9,6 +9,7 @@ tags:
 categories:
 - Geral
 twitter_text: 'Uma conversa sobre inícios, processos e evolução.'
+archive: true
 ---
 
 É realmente assustador o universo front-end para quem está chegando agora. As opções são tantas que até mesmo desenvolvedores experiêntes precisam ter um certo jogo de cintura para acompanhar a evolução do mercado. Frameworks, bibliotecas, ferramentas, metodologias, grupos, eventos...é muita coisa.

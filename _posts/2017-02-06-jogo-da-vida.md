@@ -9,6 +9,7 @@ tags:
 categories:
 - App
 twitter_text: 'Um pouco sobre como foi a criação de um autômato celular.'
+archive: true
 ---
 
 Estava lendo o blog do Marco Gomes quando encontrei algo que foi, de longe, uma das coisas mais divertidas que já programei: [O Jogo da Vida](http://marcogomes.com/blog/2008/o-jogo-da-vida-de-john-conway/).

@@ -9,6 +9,7 @@ tags:
 categories:
 - Javascript
 twitter_text: 'Uma jornada pelo objeto array, seus métodos e propriedades.'
+archive: true
 ---
 
 Hoje vamos conversar um pouco sobre os _métodos de acesso_. Diferente dos métodos que ja vimos, essas funções não modificam o array em si, elas retornam um novo array com as alterações necessárias. Por isso sempre precisamos salvar o retorno em alguma variável, pois é nessa variável que estará o array que realmente queremos, ok?

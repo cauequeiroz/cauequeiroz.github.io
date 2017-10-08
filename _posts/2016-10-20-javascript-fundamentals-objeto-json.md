@@ -9,6 +9,7 @@ tags:
 categories:
 - Javascript
 twitter_text: 'Uma jornada pelo objeto JSON, seus métodos e propriedades.'
+archive: true
 ---
 
 Hoje vamos conversar sobre os dois métodos oferecidos pelo Objeto JSON. Infelizmente, esse post não tem como objetivo ensinar o básico para quem nunca utilizou esse tipo de recurso, afinal, o intuito da série é falar sobre os métodos e propriedades oferecidos pela linguagem.

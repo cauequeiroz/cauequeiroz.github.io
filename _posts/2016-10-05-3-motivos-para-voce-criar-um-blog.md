@@ -9,6 +9,7 @@ tags:
 categories:
 - Geral
 twitter_text: 'Um pouquinho sobre os motivos que me fizeram iniciar um blog.'
+archive: true
 ---
 
 Hey :)

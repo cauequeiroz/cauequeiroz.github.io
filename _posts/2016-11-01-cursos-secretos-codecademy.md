@@ -9,6 +9,7 @@ tags:
 categories:
 - Cursos
 twitter_text: ''
+archive: true
 ---
 
 Outro dia encontrei pelo google um curso um pouco diferente: ele não estava na página de cursos do Codecademy, só era possível ter acesso direto pela url. Depois de finalizar o mesmo e ver que ele é tão bom quanto os que vemos listado no site, achei estranho e fui pesquisar um pouco.

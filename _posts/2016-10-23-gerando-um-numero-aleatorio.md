@@ -9,6 +9,7 @@ tags:
 categories:
 - Javascript
 twitter_text: 'Gerando um número aleatório entre x e y'
+archive: true
 ---
 
 Sempre que precisei gerar um número aleatório entre _x (mínimo)_ e _y (máximo)_ o caminho foi o seguinte: Google > StackOverflow > Ctrl+C na fórmula > Sublime > Ctrl+V. Mas, e se eu pudesse de uma vez por todas entender o que acontece por trás dos panos e eu mesmo escrever essa fórmula quando necessário?
