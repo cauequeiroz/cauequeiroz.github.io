@@ -14,7 +14,7 @@ disqus: false
 disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
-url:            'http://cauenqueiroz.com.br'
+url:            'http://cauequeiroz.com.br'
 author:         'Caue Queiroz'
 authorTwitter:  'YourTwitterUsername'
 
